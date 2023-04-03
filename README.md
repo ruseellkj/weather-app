@@ -1,6 +1,6 @@
 # weather-app
 
-This a mini project named as Weather app where you get all the details of a particular city
+This is a mini js project named as Weather app where you get all the details of a particular city
 Detials like 
 1. Cloud PCT
 2. Temperature/Min/Max
